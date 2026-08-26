@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&height=180&color=0:111111,50:2b2b2b,100:111111&text=LENIN%20BAKU%20CORTEZ&fontColor=D4AF37&fontSize=42&fontAlignY=55&desc=Software%20Engineer%20%E2%99%9E%20Systems%20%26%20Automation&descAlign=50&descAlignY=80&descColor=888888&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=rect&height=180&color=0:111111,50:2b2b2b,100:111111&text=LENIN%20BAKU%20CORTEZ&fontColor=D4AF37&fontSize=42&fontAlignY=55&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile&descAlign=50&descAlignY=80&descColor=888888&descSize=16)
 
 `>` every good build starts with a strong opening.
 
@@ -8,9 +8,9 @@
 
 <br>
 
-### ♞ the position
+### the position
 
-Software Engineering student from Tecate, Baja California. Currently running my professional internship at **INPLADEM** (Tecate's municipal government), building internal systems and automating workflows. In parallel, finishing my B.Eng. at **UABC** and an iOS Mobile Development Immersive at **SDGKU**.
+Software Engineering student (UABC) also completing an iOS Mobile Development Immersive at SDGKU. I build across the full stack — web platforms, mobile apps, embedded systems, and AI-integrated tools — and I've shipped real, production-facing work: a live government web platform, a published educational game, and an AI-powered mobile app built on Google Gemini.
 
 I've played chess since I was a kid, and still teach it. It shaped how I write code more than any tutorial did: think a few moves ahead, don't move a piece without knowing why, and a quiet position can still be winning.
 
@@ -57,6 +57,14 @@ I've played chess since I was a kid, and still teach it. It shaped how I write c
 
 <br>
 
+### currently
+
+- Finishing my B.Eng. in Software Engineering (UABC)
+- iOS Mobile Development Immersive (SDGKU)
+- Professional internship building internal systems & automation for a municipal government office
+
+<br>
+
 <div align="center">
 
 ### ♚ the board right now
@@ -100,9 +108,9 @@ checkmate takes patience. so does good code.
 
 <br>
 
-### ♞ la posición
+### la posición
 
-Estudiante de Ingeniería en Software originario de Tecate, Baja California. Actualmente en mis prácticas profesionales en **INPLADEM** (gobierno municipal de Tecate), construyendo sistemas internos y automatizando procesos. En paralelo, termino mi carrera en la **UABC** y curso el Mobile Development Immersive (iOS) en **SDGKU**.
+Estudiante de Ingeniería en Software (UABC), cursando también el Mobile Development Immersive (iOS) en SDGKU. Construyo a lo largo de todo el stack — plataformas web, apps móviles, sistemas embebidos y herramientas con IA — y ya tengo trabajo real en producción: una plataforma de gobierno en vivo, un juego educativo publicado, y una app móvil con IA sobre Google Gemini.
 
 Juego ajedrez desde niño, y todavía lo enseño. Me formó la manera de programar más que cualquier tutorial: piensa varias jugadas adelante, no muevas una pieza sin saber por qué, y una posición tranquila también puede estar ganando.
 
@@ -115,6 +123,12 @@ Juego ajedrez desde niño, y todavía lo enseño. Me formó la manera de program
 | ♜ | **[SIMPINA Tecate](https://github.com/Elbaku16/Simpina-Tecate-Web)** | Plataforma de gobierno en producción para derechos de la niñez — `HTML` `CSS` `JS` |
 | ♞ | **[Mati-Evolución](https://github.com/Elbaku16/mati-evolucion)** — [pruébalo](https://elbaku16.itch.io/mati-evolucion) | Juego educativo de matemáticas, publicado y jugable — `Python` `SQLite` |
 | ♝ | **[GrapMath AI Studio](https://github.com/Mrc002/ProyectoMoviles_Flutter)** | App móvil que enseña matemáticas con Google Gemini — `Flutter` `Dart` |
+
+### actualmente
+
+- Terminando mi Ingeniería en Software (UABC)
+- Mobile Development Immersive, iOS (SDGKU)
+- Prácticas profesionales construyendo sistemas internos y automatización para una oficina de gobierno municipal
 
 <div align="center">
 
