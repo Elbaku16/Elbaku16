@@ -1,60 +1,92 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a1a1a,50:8b0000,100:430808&text=Lenin%20Baku%20Cortez%20Hernandez&animation=twinkling&desc=Software%20Engineer&descAlignY=65&fontSize=45&fontColor=AF9013&descSize=20&descColor=2d2d2d)
+![Header](https://capsule-render.vercel.app/api?type=rect&height=180&color=0:111111,50:2b2b2b,100:111111&text=LENIN%20BAKU%20CORTEZ&fontColor=D4AF37&fontSize=42&fontAlignY=55&desc=Software%20Engineer%20%E2%99%9E%20Systems%20%26%20Automation&descAlign=50&descAlignY=80&descColor=888888&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=1000&color=DDC319&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+%26+Mobile+Developer;Building+real+systems+for+real+people)](https://git.io/typing-svg)
+`>` every good build starts with a strong opening.
 
 </div>
 
-## 👤 About Me
+<br>
 
-| 🎯 Who I Am | 💻 Main Stack |
-|---|---|
-| **Hi! I'm Lenin Baku Cortez Hernandez** 👋<br>Software Engineering student from Tecate, Baja California, currently doing my professional internship at INPLADEM (municipal government of Tecate), building internal systems and automating institutional workflows.<br><br>🌟 **My focus:**<br>Full-stack development • Mobile apps • Practical, working software<br><br>💼 **Currently:**<br>🏛️ Building systems & automation at INPLADEM<br>📱 Completing an iOS Mobile Development Immersive at SDGKU<br>🎓 Finishing my B.Eng. in Software Engineering at UABC<br>🤝 Always open to collaborate on real-world projects | **Languages:**<br>🐍 Python 🌐 JavaScript 🎯 Dart 🍎 Swift (intro) 🗄️ SQL<br><br>**Web & Mobile:**<br>📄 HTML5, CSS3 📱 Flutter 🍏 SwiftUI (intro)<br><br>**Backend & Data:**<br>🗃️ SQLite, MySQL 🔌 Flask, Socket.IO<br><br>**Embedded / IoT:**<br>🔧 ESP32 📡 IMU Sensors 🧠 TinyML / Edge Impulse<br><br>**Tools:**<br>🔧 Git & GitHub 💻 VS Code, Xcode, Arduino IDE 🎨 Figma |
+### ♞ the position
 
----
+Software Engineering student from Tecate, Baja California. Currently running my professional internship at **INPLADEM** (Tecate's municipal government), building internal systems and automating workflows. In parallel, finishing my B.Eng. at **UABC** and an iOS Mobile Development Immersive at **SDGKU**.
 
-## 🛠️ Tech Stack
+I've played chess since I was a kid, and still teach it. It shaped how I write code more than any tutorial did: think a few moves ahead, don't move a piece without knowing why, and a quiet position can still be winning.
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![Dart](https://skillicons.dev/icons?i=dart)
-![Swift](https://skillicons.dev/icons?i=swift)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Xcode](https://skillicons.dev/icons?i=xcode)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Arduino](https://skillicons.dev/icons?i=arduino)
+<br>
 
----
+### ♟ the pieces I play with
 
-## 📌 Featured Projects
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- 🏛️ **[SIMPINA Tecate](https://github.com/Elbaku16/Simpina-Tecate-Web)** — Official government web platform for child rights, Tecate municipality. `HTML` `CSS` `JavaScript`
-- 🎮 **[Mati-Evolucion](https://github.com/Elbaku16/mati-evolucion)** — Educational math platform with a playable demo on [itch.io](https://elbaku16.itch.io/mati-evolucion). `Python` `SQLite`
-- 🤖 **[GrapMath AI Studio](https://github.com/Mrc002/ProyectoMoviles_Flutter)** — AI-powered mobile app using the Google Gemini API. `Flutter` `Dart`
+**Pawns — fundamentals**
+<br>
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![SQL](https://skillicons.dev/icons?i=mysql)
 
----
+**Knights — mobile**
+<br>
+![Flutter](https://skillicons.dev/icons?i=flutter) ![Dart](https://skillicons.dev/icons?i=dart) ![Swift](https://skillicons.dev/icons?i=swift)
 
-## 📊 GitHub Stats
+</td>
+<td valign="top" width="50%">
 
-![Lenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elbaku16&theme=radical&hide_border=true&background=1a1a1a&stroke=AF9013&ring=8b0000&fire=8b0000&currStreakLabel=AF9013)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elbaku16&theme=radical&hide_border=true&background=1a1a1a&stroke=AF9013&ring=8b0000&fire=8b0000&currStreakLabel=AF9013)
+**Bishops — backend**
+<br>
+![Flask](https://skillicons.dev/icons?i=flask) ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
----
+**Rooks — tooling**
+<br>
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Xcode](https://skillicons.dev/icons?i=xcode) ![Arduino](https://skillicons.dev/icons?i=arduino) ![Figma](https://skillicons.dev/icons?i=figma)
 
-## 🤝 Connect With Me
+</td>
+</tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8b0000?style=for-the-badge&logo=linkedin&logoColor=DDC319&labelColor=1a1a1a)](https://linkedin.com/in/lenincortez)
-[![Gmail](https://img.shields.io/badge/Gmail-8b0000?style=for-the-badge&logo=gmail&logoColor=DDC319&labelColor=1a1a1a)](mailto:leninhrdz8@gmail.com)
-[![itch.io](https://img.shields.io/badge/itch.io-8b0000?style=for-the-badge&logo=itchdotio&logoColor=DDC319&labelColor=1a1a1a)](https://elbaku16.itch.io)
+<br>
+
+### ♛ recent games (projects)
+
+| Move | Project | What it does |
+|:---:|---|---|
+| ♜ | **[SIMPINA Tecate](https://github.com/Elbaku16/Simpina-Tecate-Web)** | Live government platform for child rights — `HTML` `CSS` `JS` |
+| ♞ | **[Mati-Evolucion](https://github.com/Elbaku16/mati-evolucion)** — [play it](https://elbaku16.itch.io/mati-evolucion) | Educational math game, published & playable — `Python` `SQLite` |
+| ♝ | **[GrapMath AI Studio](https://github.com/Mrc002/ProyectoMoviles_Flutter)** | Mobile app tutoring math with Google Gemini — `Flutter` `Dart` |
+
+<br>
+
+<div align="center">
+
+### ♚ the board right now
+
+<a href="https://github.com/Elbaku16">
+<img src="https://github-readme-stats.vercel.app/api?username=Elbaku16&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=111111&title_color=D4AF37&icon_color=D4AF37&text_color=cccccc" height="165"/>
+</a>
+<a href="https://github.com/Elbaku16">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elbaku16&theme=highcontrast&hide_border=true&background=111111&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" height="165"/>
+</a>
+
+<a href="https://github.com/Elbaku16?tab=repositories">
+<img src="https://github-profile-trophy.vercel.app/?username=Elbaku16&theme=darkhub&no-frame=true&row=1&column=6" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Lenin_Cortez-111111?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/lenincortez)
+[![Gmail](https://img.shields.io/badge/-leninhrdz8-111111?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:leninhrdz8@gmail.com)
+[![Instagram](https://img.shields.io/badge/-@elbaku16-111111?style=for-the-badge&logo=instagram&logoColor=D4AF37)](https://www.instagram.com/elbaku16/)
+[![Phone](https://img.shields.io/badge/-665_144_1213-111111?style=for-the-badge&logo=whatsapp&logoColor=D4AF37)](https://wa.me/526651441213)
+[![itch.io](https://img.shields.io/badge/-play_my_games-111111?style=for-the-badge&logo=itchdotio&logoColor=D4AF37)](https://elbaku16.itch.io)
+
+checkmate takes patience. so does good code.
+
+</div>
 
 ---
 
@@ -62,22 +94,30 @@
 
 <div align="center">
 
-# 👤 Sobre Mí
+`>` toda buena partida empieza con una buena apertura.
 
 </div>
 
-| 🎯 Quien Soy | 💻 Stack Principal |
-|---|---|
-| **¡Hola! Soy Lenin Baku Cortez Hernandez** 👋<br>Estudiante de Ingeniería en Software originario de Tecate, Baja California, actualmente en mis prácticas profesionales en INPLADEM (gobierno municipal de Tecate), construyendo sistemas internos y automatizando procesos institucionales.<br><br>🌟 **Mi enfoque:**<br>Desarrollo full-stack • Apps móviles • Software funcional y práctico<br><br>💼 **Actualmente:**<br>🏛️ Construyendo sistemas y automatización en INPLADEM<br>📱 Cursando el Mobile Development Immersive (iOS) en SDGKU<br>🎓 Terminando mi Ingeniería en Software en la UABC<br>🤝 Siempre abierto a colaborar en proyectos reales | **Lenguajes:**<br>🐍 Python 🌐 JavaScript 🎯 Dart 🍎 Swift (básico) 🗄️ SQL<br><br>**Web y Móvil:**<br>📄 HTML5, CSS3 📱 Flutter 🍏 SwiftUI (básico)<br><br>**Backend y Datos:**<br>🗃️ SQLite, MySQL 🔌 Flask, Socket.IO<br><br>**Embebidos / IoT:**<br>🔧 ESP32 📡 Sensores IMU 🧠 TinyML / Edge Impulse<br><br>**Herramientas:**<br>🔧 Git y GitHub 💻 VS Code, Xcode, Arduino IDE 🎨 Figma |
+<br>
 
-## 📌 Proyectos Destacados
+### ♞ la posición
 
-- 🏛️ **[SIMPINA Tecate](https://github.com/Elbaku16/Simpina-Tecate-Web)** — Plataforma web oficial de derechos de la niñez del gobierno de Tecate. `HTML` `CSS` `JavaScript`
-- 🎮 **[Mati-Evolución](https://github.com/Elbaku16/mati-evolucion)** — Plataforma educativa de matemáticas con demo jugable en [itch.io](https://elbaku16.itch.io/mati-evolucion). `Python` `SQLite`
-- 🤖 **[GrapMath AI Studio](https://github.com/Mrc002/ProyectoMoviles_Flutter)** — App móvil con IA usando la API de Google Gemini. `Flutter` `Dart`
+Estudiante de Ingeniería en Software originario de Tecate, Baja California. Actualmente en mis prácticas profesionales en **INPLADEM** (gobierno municipal de Tecate), construyendo sistemas internos y automatizando procesos. En paralelo, termino mi carrera en la **UABC** y curso el Mobile Development Immersive (iOS) en **SDGKU**.
+
+Juego ajedrez desde niño, y todavía lo enseño. Me formó la manera de programar más que cualquier tutorial: piensa varias jugadas adelante, no muevas una pieza sin saber por qué, y una posición tranquila también puede estar ganando.
+
+<br>
+
+### ♛ partidas recientes (proyectos)
+
+| Jugada | Proyecto | Qué hace |
+|:---:|---|---|
+| ♜ | **[SIMPINA Tecate](https://github.com/Elbaku16/Simpina-Tecate-Web)** | Plataforma de gobierno en producción para derechos de la niñez — `HTML` `CSS` `JS` |
+| ♞ | **[Mati-Evolución](https://github.com/Elbaku16/mati-evolucion)** — [pruébalo](https://elbaku16.itch.io/mati-evolucion) | Juego educativo de matemáticas, publicado y jugable — `Python` `SQLite` |
+| ♝ | **[GrapMath AI Studio](https://github.com/Mrc002/ProyectoMoviles_Flutter)** | App móvil que enseña matemáticas con Google Gemini — `Flutter` `Dart` |
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a1a1a,50:8b0000,100:430808&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=rect&height=100&color=0:111111,50:2b2b2b,100:111111&section=footer)
 
 </div>
