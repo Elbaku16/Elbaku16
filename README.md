@@ -57,14 +57,7 @@ Chess player and instructor on the side — it shaped how I write code more than
 <div align="center">
 
 <a href="https://github.com/Elbaku16">
-<img src="https://github-readme-stats.vercel.app/api?username=Elbaku16&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=111111&title_color=D4AF37&icon_color=D4AF37&text_color=cccccc" height="165"/>
-</a>
-<a href="https://github.com/Elbaku16">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elbaku16&theme=highcontrast&hide_border=true&background=111111&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" height="165"/>
-</a>
-
-<a href="https://github.com/Elbaku16?tab=repositories">
-<img src="https://github-profile-trophy.vercel.app/?username=Elbaku16&theme=darkhub&no-frame=true&row=1&column=6" />
 </a>
 
 </div>
