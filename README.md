@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/Elbaku16/Elbaku16@main/header.svg" width="100%"/>
+<img src="header.png" width="100%"/>
 
 `>` every good build starts with a strong opening.
 
@@ -117,6 +117,6 @@ Juego ajedrez y lo enseño. Me formó la manera de programar más que cualquier 
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/Elbaku16/Elbaku16@main/footer.svg" width="100%"/>
+<img src="footer.png" width="100%"/>
 
 </div>
